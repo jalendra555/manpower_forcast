@@ -1,0 +1,8 @@
+task_code,task_name,rate_per_manday,boq,uom,trade_id
+BLK,Blockwork,8,12000,m2,1
+PLS,Plastering,10,8000,m2,1
+SHU,Shuttering,6,3000,m2,2
+BAR,Rebar Fixing,5,2500,kg,3
+ELE,Conduiting,15,800,points,4
+PLB,Pipe Installation,12,600,m,5
+PNT,Painting,20,5000,m2,6
